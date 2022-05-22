@@ -1,0 +1,4 @@
+cloudflare~=2.8.15
+requests~=2.27.1
+pytest~=7.0.1
+click~=8.0.4
